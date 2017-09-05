@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "140564723626",
+    "firebase_url": "https://test-projects-77bf3.firebaseio.com",
+    "project_id": "test-projects-77bf3",
+    "storage_bucket": "test-projects-77bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140564723626:android:a852dbcdd8651a21",
+        "android_client_info": {
+          "package_name": "pe.tohure.continuosintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140564723626-2jd6u5at2tejup6ntrt9e8mk6pg9bkl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7WU5xWoTLyNleD3-emmYPlowJlEPcV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
